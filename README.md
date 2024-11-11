@@ -1,5 +1,7 @@
 # Sylvan
 
+Important! Please install the .NET 6.0 runtime before using the .exe
+
                      You find yourself in a strange forest full of danger and potential happiness.");
                          Fight enemies, find treasures, avoid deadly traps and most of all:");
                                                  Good Luck!\n\n");
