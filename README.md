@@ -1,6 +1,7 @@
 # Sylvan
 
 Important! Please install the .NET 6.0 runtime before using the .exe
+
 (Install here: https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-6.0.35-windows-x86-installer)
 
                      You find yourself in a strange forest full of danger and potential happiness.
